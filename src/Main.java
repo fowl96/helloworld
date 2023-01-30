@@ -69,8 +69,8 @@ public class Main {
         System.out.println("Задача 7");
         var weihgtFirst = 78.2;
         var weihgtSecond = 82.7;
-        System.out.println("Разница между весами бойцов " + (weihgtSecond - weihgtFirst) + "кг.");
-        System.out.println("Разница между весами бойцов " + (weihgtSecond % weihgtFirst) + "кг.");
+        System.out.println("Разница между весами бойцов " + (weihgtSecond - weihgtFirst) + "кг");
+        System.out.println("Разница между весами бойцов " + (weihgtSecond % weihgtFirst) + "кг");
     }
     public static void task8 () {
         System.out.println("Задача 8");
